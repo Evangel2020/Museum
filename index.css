@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    text-align: center;
+    background-image:url(background_image.png)
+}
+.h1{
+    color: #ffffff;
+    font-family:'Roboto', sans-serif;
+    font-size: 60px;
+    margin: 50px;
+    padding: 30px;
+}
+.p{
+ font-size: small;
+ color: #ffffff;
+}
+.form-group{
+    font-size: small;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 17px;   
+}
+.small p a{
+    color: #ffffff;
+}
+.LogIn{
+    color: red;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+
+
